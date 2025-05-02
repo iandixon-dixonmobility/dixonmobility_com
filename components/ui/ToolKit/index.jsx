@@ -25,7 +25,7 @@ const ToolKit = () => {
         {
             icon: ai,
             title: "AI",
-            desc: "Next.js is a React framework that gives you building blocks to create web apps."
+            desc: "We are AI First."
         },
         {
             icon: cloud,
