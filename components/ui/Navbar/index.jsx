@@ -75,7 +75,7 @@ const Navbar = () => {
                                     href="/get-started"
                                     className="block font-medium text-sm text-white bg-sky-800 hover:bg-sky-700 active:bg-sky-900 md:inline"
                                 >
-                                    Let's work
+                                    Contact Us
                                 </NavLink>
                             </li>
                         </ul>
