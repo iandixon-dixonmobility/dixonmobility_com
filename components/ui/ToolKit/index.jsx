@@ -1,43 +1,50 @@
 import SectionWrapper from "../../SectionWrapper"
 import Image from "next/image"
-import wordpress from "../../../public/icons/wordpress.svg"
-import nextjs from "../../../public/icons/nextjs.svg"
-import tailwind from "../../../public/icons/tailwind.svg"
-import nodejs from "../../../public/icons/nodejs.svg"
-import vercel from "../../../public/icons/vercel.svg"
-import figma from "../../../public/icons/figma.svg"
+// import wordpress from "../../../public/icons/wordpress.svg"
+// import nextjs from "../../../public/icons/nextjs.svg"
+// import tailwind from "../../../public/icons/tailwind.svg"
+// import nodejs from "../../../public/icons/nodejs.svg"
+// import vercel from "../../../public/icons/vercel.svg"
+// import figma from "../../../public/icons/figma.svg"
+
+import api from "../../../public/icons/005-computer.svg"
+import cloud from "../../../public/icons/024-cloud.svg"
+import observability from "../../../public/icons/029-warning.svg"
+import ai from "../../../public/icons/041-robot.svg"
+import mobile from "../../../public/icons/059-mobile.svg"
+import automation from "../../../public/icons/088-batch.svg"
 
 const ToolKit = () => {
 
     const features = [
         {
-            icon: wordpress,
-            title: "Wordpress",
+            icon: api,
+            title: "API",
             desc: "WordPress is an open-source content management system (CMS)."
         },
         {
-            icon: nextjs,
-            title: "Next.js",
+            icon: ai,
+            title: "AI",
             desc: "Next.js is a React framework that gives you building blocks to create web apps."
         },
         {
-            icon: tailwind,
-            title: "Tailwind CSS",
+            icon: cloud,
+            title: "Cloud",
             desc: "Tailwind CSS is basically a utility-first CSS framework for rapidly building UIs."
         },
         {
-            icon: nodejs,
-            title: "Node.js",
+            icon: mobile,
+            title: "Mobile Development",
             desc: "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment."
         },
         {
-            icon: vercel,
-            title: "Vercel",
+            icon: automation,
+            title: "Automation",
             desc: "Vercel is a cloud platform that enables developers to host web apps."
         },
         {
-            icon: figma,
-            title: "Figma",
+            icon: observability,
+            title: "Observability",
             desc: "Figma is a web-based graphics editing and user interface design app."
         },
     ]
