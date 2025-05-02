@@ -16,7 +16,7 @@ const CTA = () => {
                             Create Successful Business Models with Our IT Solutions
                         </h2>
                         <p className="mt-3 text-gray-600">
-                            Blinder, a software development company, helps to digitize businesses by focusing on client’s business challenges, needs. We value close transparent cooperation and encourage our clients to participate actively in the project development life cycle.
+                            Dixon Mobility, a software development company, helps to digitize businesses by focusing on client’s business challenges, needs. We value close transparent cooperation and encourage our clients to participate actively in the project development life cycle.
                         </p>
                         <NavLink
                             href="/get-started"
