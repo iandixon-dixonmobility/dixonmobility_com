@@ -76,7 +76,7 @@ export default function GetStarted() {
                 Get In Touch
               </h1>
               <p className='mt-3'>
-                We are here to help. Get in touch and
+                We are here to help. Please get in touch and
                 let us know how we can help, or shoot us an email on{" "}
                 <a
                   href='mailto:support@blinder.com'
