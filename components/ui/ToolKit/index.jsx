@@ -14,32 +14,32 @@ const ToolKit = () => {
         {
             icon: api,
             title: "API",
-            desc: "WordPress is an open-source content management system (CMS)."
+            desc: "We design and implement robust APIs to ensure seamless integration between your systems and third-party services. Our expertise facilitates secure data exchange and enhances application connectivity for streamlined operations."
         },
         {
             icon: ai,
             title: "AI",
-            desc: "We are AI First."
+            desc: "Leverage the power of Artificial Intelligence to unlock new insights, automate complex processes, and create smarter user experiences. We integrate AI capabilities to drive efficiency and innovation within your applications."
         },
         {
             icon: cloud,
             title: "Cloud",
-            desc: "Tailwind CSS is basically a utility-first CSS framework for rapidly building UIs."
+            desc: "Build and deploy your applications on secure, scalable cloud infrastructure designed for high availability and optimal performance. We utilize leading cloud platforms to provide flexible and cost-effective solutions tailored to your needs."
         },
         {
             icon: mobile,
             title: "Mobile Development",
-            desc: "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment."
+            desc: "We create high-performance, user-centric mobile applications for both iOS and Android platforms using modern development practices. Our focus is on delivering intuitive and engaging mobile experiences that meet your business objectives."
         },
         {
             icon: automation,
             title: "Automation",
-            desc: "Vercel is a cloud platform that enables developers to host web apps."
+            desc: "Streamline your workflows and increase operational efficiency through intelligent automation solutions. We identify opportunities to automate repetitive tasks, reducing manual effort and freeing up resources for strategic initiatives."
         },
         {
             icon: observability,
             title: "Observability",
-            desc: "Figma is a web-based graphics editing and user interface design app."
+            desc: "Gain deep insights into your application performance and system health with comprehensive observability tools. We implement monitoring and logging solutions to ensure reliability, troubleshoot issues quickly, and optimize user experience."
         },
     ]
 
@@ -48,10 +48,10 @@ const ToolKit = () => {
             <div id="toolkit" className="max-w-screen-xl mx-auto px-4 text-gray-600 md:px-8">
                 <div className="max-w-2xl mx-auto space-y-3 sm:text-center">
                     <h2 className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                        Work with the best toolkit
+                        Core Competencies
                     </h2>
                     <p>
-                        These are a few of our favourite things
+                        Here's where we shine
                     </p>
                 </div>
                 <div className="mt-12">
