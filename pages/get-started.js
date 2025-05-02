@@ -79,7 +79,7 @@ export default function GetStarted() {
                 We are here to help. Please get in touch and
                 let us know how we can help, or shoot us an email on{" "}
                 <a
-                  href='mailto:support@blinder.com'
+                  href='mailto:info@dixonmobility.com'
                   target='_blank'
                   rel='noreferrer'
                   className='text-blue-800 hover:text-blue-700 font-medium duration-150'>

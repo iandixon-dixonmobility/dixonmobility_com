@@ -12,8 +12,8 @@ export default async function handler(req, res) {
 
   try {
     const msg = {
-      to: 'your-email@dixonmobility.com', // Replace with your email
-      from: 'your-verified-sender@dixonmobility.com', // Replace with your SendGrid verified sender
+      to: 'help@dixonmobility.com', // Replace with your email
+      from: 'no-replay@dixonmobility.com', // Replace with your SendGrid verified sender
       subject: `New Contact Form Submission from ${name}`,
       text: `
         Name: ${name}
