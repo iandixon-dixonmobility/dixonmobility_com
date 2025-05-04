@@ -22,7 +22,7 @@ const CTA = () => {
                             href="/get-started"
                             className="inline-block mt-4 font-medium text-sm text-white bg-sky-800 hover:bg-sky-700 active:bg-sky-900"
                         >
-                            Get started
+                            Learn More
                         </NavLink>
                     </div>
                 </div>

@@ -17,13 +17,13 @@ export default function Home() {
       <Hero />
       <LogoGrid />
       <GradientWrapper>
-        <Features />
+        {/* <Features /> */}
         <CTA />
       </GradientWrapper>
       <ToolKit />
-      <GradientWrapper>
+      {/* <GradientWrapper>
         <Testimonials />
-      </GradientWrapper>
+      </GradientWrapper> */}
       <FooterCTA />
     </>
   );

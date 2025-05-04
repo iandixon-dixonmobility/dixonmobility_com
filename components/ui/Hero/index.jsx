@@ -8,10 +8,10 @@ const Hero = () => (
                 Custom Mobile Apps for Transit and Beyond
                 </h1>
                 <p className="max-w-xl mx-auto">
-                AI First, iOS apps, Android apps, APIs, Transit-focused tech
+                AI First, iOS apps, Android apps, APIs, Web Transit-Focused Tech
                 </p>
                 <div className="flex items-center justify-center gap-x-3 font-medium text-sm">
-                    <NavLink
+                    {/* <NavLink
                         href="/get-started"
                         className="text-white bg-sky-800 hover:bg-sky-700 active:bg-sky-900 "
                     >
@@ -23,7 +23,7 @@ const Hero = () => (
                         scroll={false}
                     >
                         Learn more
-                    </NavLink>
+                    </NavLink> */}
                 </div>
             </div>
         </div>
