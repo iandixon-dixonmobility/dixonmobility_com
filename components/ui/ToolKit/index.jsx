@@ -50,9 +50,6 @@ const ToolKit = () => {
                     <h2 className="text-gray-800 text-3xl font-semibold sm:text-4xl">
                         Core Competencies
                     </h2>
-                    <p>
-                        Here's where we shine
-                    </p>
                 </div>
                 <div className="mt-12">
                     <ul className="grid gap-y-8 gap-x-12 sm:grid-cols-2 lg:grid-cols-3">
