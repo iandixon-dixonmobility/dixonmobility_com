@@ -16,7 +16,7 @@ const CTA = () => {
                             Leader In Public Transit
                         </h2>
                         <p className="mt-3 text-gray-600">
-                            We have been publishing public transit apps for riders since 2012, and with over <b>5 million downloads</b> in the Apple App Store and Google Play Store, Dixon Mobility is a proven leader in mobile public transit. Our success is built around tailoring each app for the market it serves and the unique characteristics of the transit system. We build and run the entire stack to ensure availability for riders when they need it most.
+                        Since 2012, Dixon Mobility has been delivering exceptional public transit apps trusted by millions of riders. With over <b>5 million downloads</b> across the Apple App Store and Google Play Store, we've established ourselves as a leading innovator in mobile transit technology. Each of our apps is thoughtfully designed and customized to meet the specific needs of its local market and the distinct characteristics of each transit system. By managing the complete technology stack—from development to infrastructure—we ensure our apps are reliable, intuitive, and available exactly when riders depend on them most.
                         </p>
                         <NavLink
                             href="/get-started"
