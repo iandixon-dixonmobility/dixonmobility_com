@@ -13,10 +13,10 @@ const CTA = () => {
                     </div>
                     <div className="max-w-xl mt-6 md:mt-0 lg:max-w-2xl">
                         <h2 className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                            Create Successful Business Models with Our IT Solutions
+                            Leader In Public Transit
                         </h2>
                         <p className="mt-3 text-gray-600">
-                            Dixon Mobility, a software development company, helps to digitize businesses by focusing on client’s business challenges, needs. We value close transparent cooperation and encourage our clients to participate actively in the project development life cycle.
+                            With over 5 million downloads in the Apple App Store and Google Play Store, we are proven leaders in mobile public transit.
                         </p>
                         <NavLink
                             href="/get-started"
