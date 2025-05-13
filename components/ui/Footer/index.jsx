@@ -23,6 +23,7 @@ const Footer = () => (
                 <div className="flex items-center gap-x-6 text-gray-400 mt-6">
                     <NavLink href="/terms" className="text-gray-400 hover:text-gray-700 text-sm">Terms of Use</NavLink>
                     <NavLink href="/privacy" className="text-gray-400 hover:text-gray-700 text-sm">Privacy Policy</NavLink>
+                    {/* <NavLink href="/credits" className="text-gray-400 hover:text-gray-700 text-sm">Credits</NavLink> */}
                     {
                         socialInfo.map((item, idx) => (
                             <a key={idx} href={item.href} aria-label="social media" target="_blank" rel="noreferrer">
