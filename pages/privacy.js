@@ -38,6 +38,9 @@ export default function Privacy() {
               <b>Security</b> We implement reasonable security measures to protect your information, but no internet transmission can be entirely secure.
             </p>
             <p>
+              <b>Analytics</b> We use Google Firebase Analytics to collect information about how visitors use our site. This helps us improve our site and services.
+            </p>
+            <p>
               <b>Changes to this Privacy Policy</b> This policy may be updated periodically. Updates will be posted on this page.
             </p>
           </div>

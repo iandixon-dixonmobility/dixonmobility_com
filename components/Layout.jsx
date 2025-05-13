@@ -1,8 +1,12 @@
 import Head from "next/head"
 import Footer from "./ui/Footer"
 import Navbar from "./ui/Navbar"
+import { useAnalytics } from '../hooks/useAnalytics'
 
 const Layout = ({ children }) => {
+    // Initialize analytics
+    useAnalytics();
+
     return (
         <>
             <Head>
